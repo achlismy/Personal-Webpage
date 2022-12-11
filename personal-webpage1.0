@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
  <head>
   <title>
@@ -13,8 +14,8 @@
   <p> Saat ini saya belum berkuliah seperti teman-teman saya kebanyakan. Masih mencoba untuk <i>explore</i> berbagai macam hal, karena saya merasa banyak sekali hal-hal yang belum saya ketahui. Sejauh ini, saya sedang tertarik dengan beberapa bidang keilmuan salah satunya ilmu pengembangan web. Maka dari itu, web ini saya buat untuk mewujudkan implementasi ilmu-ilmu dasar dari pengembangan web yang saya pelajari secara otodidak.</p>
   <br>
   <p> Demikian, pengenalan singkat mengenai saya. Saya juga memiliki beberapa media sosial. <i>Feel free</i> untuk teman-teman semua jika ada yang ingin berteman dengan saya di dunia maya ini. Dibawah ini saya bagikan beberapa media sosial yang masig aktif: </p>
-  <link href:"https://id.quora.com/profile/Kureesu-Kun?ch=10&oid=1496099305&share=de8a1cc9&srid=uyxUNi&target_type=user"> Quora </link>
-  <link href:"https://www.linkedin.com/in/achlis-m-86842b240"> LinkedIn </link>
+  <a href="https://id.quora.com/profile/Kureesu-Kun?ch=10&oid=1496099305&share=de8a1cc9&srid=uyxUNi&target_type=user"> Quora </a>
+  <a href="https://www.linkedin.com/in/achlis-m-86842b240"> LinkedIn </a>
   <br>
   <br>
   <p> <i>Have A Nice Day!</i></p>

@@ -1,23 +1,22 @@
 <!DOCTYPE html>
 <html>
- <head>
-  <title>
-   Achlis Muhammad Yusuf
-  </title>
- </head>
-
- <body>
-  <p> Achlis Muhammad Yusuf <br> Pelajar 18 Tahun </p>
-  <br> 
-  <p> Halo semua! Nama saya Achlis Muhammad Yusuf. Mungkin terlihat susah untuk dibaca, tapi kalian boleh saja panggil saya dengan panggilan "<i>aklis</i>". Saat ini saya masih berumur 18 tahun dan saya adalah seorang pelajar yang baru saja lulus dari SMA pada tahun 2022 ini. </p>
-  <br>
-  <p> Saat ini saya belum berkuliah seperti teman-teman saya kebanyakan. Masih mencoba untuk <i>explore</i> berbagai macam hal, karena saya merasa banyak sekali hal-hal yang belum saya ketahui. Sejauh ini, saya sedang tertarik dengan beberapa bidang keilmuan salah satunya ilmu pengembangan web. Maka dari itu, web ini saya buat untuk mewujudkan implementasi ilmu-ilmu dasar dari pengembangan web yang saya pelajari secara otodidak.</p>
-  <br>
-  <p> Demikian, pengenalan singkat mengenai saya. Saya juga memiliki beberapa media sosial. <i>Feel free</i> untuk teman-teman semua jika ada yang ingin berteman dengan saya di dunia maya ini. Dibawah ini saya bagikan beberapa media sosial yang masig aktif: </p>
-  <a href="https://id.quora.com/profile/Kureesu-Kun?ch=10&oid=1496099305&share=de8a1cc9&srid=uyxUNi&target_type=user"> Quora </a>
-  <a href="https://www.linkedin.com/in/achlis-m-86842b240"> LinkedIn </a>
-  <br>
-  <br>
-  <p> <i>Have A Nice Day!</i></p>
- </body>
+<head>
+	<title>achlismy portofolio</title>
+</head>
+<body>
+	<p>Halo, saya</p>
+	<p><h2>Achlis Muhammad Yusuf</h2></p>
+	<p>Front-end Web Developer</p>
+	<br>
+	<br>
+	<p><h3>About Me</h3></p>
+	<p>Saya seorang pelajar gapyear yang sedang menekuni bidang Web Developement</p>
+	<p>Saat ini saya masih mempelajari HTML, namun tidak apa karena saya akan terus meningkatkan kemampuan saya dalam bidang ini.</p>
+	<p>Ke depannya saya akan mengembangkan web portfolio ini dan juga saya akan membuat banyak software application menggunakan HTML, CSS, dan JavaScript untuk menambah pengalaman saya dalam programming.</p>
+	<br>
+	<p><h3>Kontak saya</h3></p>
+	<button><a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=DmwnWstxRhZJzcQtpmdKtSzpTNmhvBWCNkKXVwrkxcjrFkSBrRkGksvpFCtFXCTMdMZnlcFjHrml"> E-mail </a></button>
+	<button><a href="https://www.instagram.com/achlismy_/"> Instagram </a></button>
+	<button><a href="https://www.linkedin.com/in/achlis-m-86842b240/"> LinkedIn </a></button>
+</body>
 </html>
